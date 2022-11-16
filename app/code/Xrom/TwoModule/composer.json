@@ -1,0 +1,12 @@
+{
+    "name": "esca7a/two-module",
+    "description": "create admin section and send data to frontend fields",
+    "authors": [
+        {
+            "name": "Pavel Tankov",
+            "email": "pasha.esca1a@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
